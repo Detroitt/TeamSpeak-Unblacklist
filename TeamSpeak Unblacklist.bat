@@ -1,5 +1,5 @@
  @echo off
-TITLE TeamSpeak Unblacklist By Detroit
+TITLE TeamSpeak Unblacklist By Drippin
 echo.
 pause <nul
 
